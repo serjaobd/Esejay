@@ -1,4 +1,4 @@
-### Olá mundo!! Meu nome é Sérgio, utilizo SJ como nickname. 🐊
+### Olá mundo!! Meu nome é Sérgio, estudo programação e tenho interesse em seguir na área. 🐊
 
 <div align="left">
   <a href="https://github.com/Esejay">
