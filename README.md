@@ -2,7 +2,6 @@
 
 <div align="left">
   <a href="https://github.com/Esejay">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Esejay&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    
 </div>
 <div style="display: inline_block"><br>
